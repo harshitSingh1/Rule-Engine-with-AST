@@ -22,37 +22,21 @@ A React-based web application that enables users to create, combine, and evaluat
 ## Getting Started
 
 ```bash
-git clone https://github.com/amantripathigithub/Application-1-Rule-Engine-with-AST.git
+git clone https://github.com/harshitSingh1/Rule-Engine-with-AST.git
 
 cd Rule-Engine-with-AST
 
-- Backend Setup
-
+- Backend Setup:
 cd backend
-
 npm install
-
 node index.js
-
 The backend server will run on http://localhost:5000.
 
-
-
-
-
-- Frontend Setup
-
+- Frontend Setup:
 cd frontend
-
 npm install
-
 npm start
-
-
 The frontend server will run on http://localhost:3000.
-
-
-
 
 
 Usage
