@@ -84,4 +84,4 @@ The evaluation result should be true if the combined AST is satisfied by the pro
 ```
 
 ## Output
-![Sample image](./sample.jpg)
+![Sample image](./sample.png)
